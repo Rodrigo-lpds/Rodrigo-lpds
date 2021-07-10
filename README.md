@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <a href="https://twitter.com/Rodrigo_lpds" target="_blank" rel="noopener noreferrer"><img align="left" alt="Rodrigo-lpds | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" /></a>
 <a href="https://www.linkedin.com/in/rodrigolucaspds/" target="_blank" rel="noopener noreferrer"> <img align="left" alt="Rodrigo-lpds | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> </a>
 <a href="https://www.instagram.com/rodrigo.lpds/" target="_blank" rel="noopener noreferrer"><img align="left" alt="Rodrigo-lpds | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" /></a>
- <a href="mailto:rodrigo.lpdsilva@gmail.com"><img align="left" alt="Rodrigo-lpds | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
+<a href="mailto:rodrigo.lpdsilva@gmail.com"><img align="left" alt="Rodrigo-lpds | Email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" /></a>
 </p>
 
 <br />
@@ -38,13 +38,19 @@ Here are some ideas to get you started:
 <img alt="CSS3" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img alt="Sass" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img alt="JavaScript" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+<img alt="NodeJS" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png" />
+<img alt="Ruby" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
+<img alt="Rails" height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
 <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="Python" height="40" style="vertical-align:top; margin:4px"/>
 </p>
-<div class="stats" display="flex" flex-wrap="wrap" justify-content="space-evenly" align-items="left">
-  <p align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rodrigo-lpds&show_icons=true&locale=en&layout=compact" alt="Rodrigo-lpds" /></p>
+
+## :trophy: My Github Stats:
+
+<div>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Rodrigo-lpds&count_private=true&show_icons=true&theme=tokyonight">
+  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Rodrigo-lpds&count_private=true&show_icons=true&theme=tokyonight" />
+</a>
+<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Rodrigo-lpds&hide=php&theme=tokyonight">
+  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Rodrigo-lpds&hide=php&theme=tokyonight" />
+</a>
 </div>
-
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-lpds&show_icons=true&theme=tokyonight)
-
