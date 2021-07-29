@@ -55,10 +55,8 @@ Here are some ideas to get you started:
 ## :trophy: My Github Stats:
 
 <div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Rodrigo-lpds&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Rodrigo-lpds&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Rodrigo-lpds&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=Rodrigo-lpds&theme=tokyonight" />
-</a>
+
+ ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-lpds&count_private=true)
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-lpds&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 </div>
