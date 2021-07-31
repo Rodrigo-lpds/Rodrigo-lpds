@@ -57,6 +57,6 @@ Here are some ideas to get you started:
 <div>
 
  ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrigo-lpds&count_private=true)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-lpds&hide=jupyter%20notebook)]
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrigo-lpds&hide=jupyter%20notebook)
 
 </div>
