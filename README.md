@@ -8,7 +8,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working at Reserva INK and Laboratory for Computational Methods in Engineering (LAMCE/COPPE/UFRJ)
+- 🔭 I’m currently working at Reserva INK
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- 🔭 I’m currently working at [Reserva INK](https://www.reserva.ink/) and [Laboratory for Computational Methods in Engineering (LAMCE/COPPE/UFRJ)](http://www.lamce.coppe.ufrj.br/)
-
+- 🔭 I’m currently working at [Reserva INK](https://www.reserva.ink/)
 ### ✉️ Find me on:
 
 <p align="left">
