@@ -26,7 +26,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/rodrigolpds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="rodrigolpds" height="30" width="40" /></a>
-<a href="https://twitter.com/rodrigo_lpds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rodrigo_lpds" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/rodrigolucaspds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rodrigolucaspds" height="30" width="40" /></a>
 <a href="https://instagram.com/rodrigo.lpds" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rodrigo.lpds" height="30" width="40" /></a>
 <a href="https://medium.com/@rodrigo.lpdsilva" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@rodrigo.lpdsilva" height="30" width="40" /></a>
