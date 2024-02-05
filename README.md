@@ -5,7 +5,6 @@
 
 
 <img align="right" width="400px" src="https://github.com/Rodrigo-lpds/Rodrigo-lpds/assets/56642493/6d245d6d-cbf5-41e3-837b-2a345fd348d2">
-<p align="left"> <a href="https://twitter.com/rodrigo_lpds" target="blank"><img src="https://img.shields.io/twitter/follow/rodrigo_lpds?logo=twitter&style=for-the-badge" alt="rodrigo_lpds" /></a> </p>
 
 - 🔭 I’m currently working on [ReservaINK](https://reservaink.com.br/)
 
