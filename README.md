@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on [ReservaINK](https://reservaink.com.br/)
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **Next JS**
 
 - 📝 I regularly write articles on [Medium](https://medium.com/@rodrigo.lpdsilva)
 
